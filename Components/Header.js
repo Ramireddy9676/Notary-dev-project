@@ -59,7 +59,7 @@ function Header() {
             </div>
             {showUserData && (
                 <div className='user_information'>
-                    <Link to='/Renewals' className='profile'><p>Profile</p></Link>
+                    <Link to='/Renewals' className='profile'><p>Profile123456</p></Link>
                     <Link to='/Loginpage' className='Logout'><p>Logout</p></Link>
                 </div>
             )}
